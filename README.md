@@ -13,8 +13,8 @@ The main goal of this project is to predict whether a customer will churn based 
 
 ## Dataset
 The dataset is obtained from Kaggle's ** https://www.kaggle.com/datasets/bhuviranga/customer-churn-data/data 
-** competition. It contains detailed information about house features and their respective prices.
+** competition.  It contains detailed information about customer demographics, account features, and churn behavior.
 
 
-Final Step: Segmentation & Visualization
+## Final Step: Segmentation & Visualization
 These segments are visualized using Power BI for strategic decision-making.
