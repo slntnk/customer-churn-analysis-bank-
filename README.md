@@ -1,4 +1,4 @@
-# customer-churn-analysis-bank-
+# customer-churn-analysis-bank
 
 This project focuses on predicting customer churn in the banking sector using Python. Various machine learning models are applied and compared to identify customers who are at risk of leaving the bank. Final customer segments are visualized with Power BI.
 
