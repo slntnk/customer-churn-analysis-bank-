@@ -18,4 +18,7 @@ The dataset is obtained from Kaggle's ** https://www.kaggle.com/datasets/bhuvira
 
 ## Final Step: Segmentation & Visualization
 These segments are visualized using Power BI for strategic decision-making.
-![image](https://github.com/user-attachments/assets/0becae82-1898-401f-9789-6a38255abd1d)
+
+
+![c](https://github.com/user-attachments/assets/77b80091-bd5f-4827-970e-94aec82875e8)
+
