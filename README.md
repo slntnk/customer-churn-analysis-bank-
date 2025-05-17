@@ -12,8 +12,8 @@ This project focuses on predicting customer churn in the banking sector using Py
 The main goal of this project is to predict whether a customer will churn based on their personal and transactional attributes. Additionally, churn probabilities are used to segment customers and provide business insights.
 
 ## Dataset
-The dataset is obtained from Kaggle's ** https://www.kaggle.com/datasets/bhuviranga/customer-churn-data/data 
-** competition.  It contains detailed information about customer demographics, account features, and churn behavior.
+The dataset is obtained from Kaggle's  https://www.kaggle.com/datasets/bhuviranga/customer-churn-data/data 
+competition.
 
 
 ## Final Step: Segmentation & Visualization
